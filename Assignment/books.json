@@ -1,0 +1,142 @@
+[
+    {
+        "title": "A Light in the Attic",
+        "price": "£51.77",
+        "rating": "Three",
+        "rating_numeric": 3,
+        "price_numeric": 51.77
+    },
+    {
+        "title": "Tipping the Velvet",
+        "price": "£53.74",
+        "rating": "One",
+        "rating_numeric": 1,
+        "price_numeric": 53.74
+    },
+    {
+        "title": "Soumission",
+        "price": "£50.10",
+        "rating": "One",
+        "rating_numeric": 1,
+        "price_numeric": 50.1
+    },
+    {
+        "title": "Sharp Objects",
+        "price": "£47.82",
+        "rating": "Four",
+        "rating_numeric": 4,
+        "price_numeric": 47.82
+    },
+    {
+        "title": "Sapiens: A Brief History of Humankind",
+        "price": "£54.23",
+        "rating": "Five",
+        "rating_numeric": 5,
+        "price_numeric": 54.23
+    },
+    {
+        "title": "The Requiem Red",
+        "price": "£22.65",
+        "rating": "One",
+        "rating_numeric": 1,
+        "price_numeric": 22.65
+    },
+    {
+        "title": "The Dirty Little Secrets of Getting Your Dream Job",
+        "price": "£33.34",
+        "rating": "Four",
+        "rating_numeric": 4,
+        "price_numeric": 33.34
+    },
+    {
+        "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+        "price": "£17.93",
+        "rating": "Three",
+        "rating_numeric": 3,
+        "price_numeric": 17.93
+    },
+    {
+        "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "price": "£22.60",
+        "rating": "Four",
+        "rating_numeric": 4,
+        "price_numeric": 22.6
+    },
+    {
+        "title": "The Black Maria",
+        "price": "£52.15",
+        "rating": "One",
+        "rating_numeric": 1,
+        "price_numeric": 52.15
+    },
+    {
+        "title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+        "price": "£13.99",
+        "rating": "Two",
+        "rating_numeric": 2,
+        "price_numeric": 13.99
+    },
+    {
+        "title": "Shakespeare's Sonnets",
+        "price": "£20.66",
+        "rating": "Four",
+        "rating_numeric": 4,
+        "price_numeric": 20.66
+    },
+    {
+        "title": "Set Me Free",
+        "price": "£17.46",
+        "rating": "Five",
+        "rating_numeric": 5,
+        "price_numeric": 17.46
+    },
+    {
+        "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "price": "£52.29",
+        "rating": "Five",
+        "rating_numeric": 5,
+        "price_numeric": 52.29
+    },
+    {
+        "title": "Rip it Up and Start Again",
+        "price": "£35.02",
+        "rating": "Five",
+        "rating_numeric": 5,
+        "price_numeric": 35.02
+    },
+    {
+        "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+        "price": "£57.25",
+        "rating": "Three",
+        "rating_numeric": 3,
+        "price_numeric": 57.25
+    },
+    {
+        "title": "Olio",
+        "price": "£23.88",
+        "rating": "One",
+        "rating_numeric": 1,
+        "price_numeric": 23.88
+    },
+    {
+        "title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+        "price": "£37.59",
+        "rating": "One",
+        "rating_numeric": 1,
+        "price_numeric": 37.59
+    },
+    {
+        "title": "Libertarianism for Beginners",
+        "price": "£51.33",
+        "rating": "Two",
+        "rating_numeric": 2,
+        "price_numeric": 51.33
+    },
+    {
+        "title": "It's Only the Himalayas",
+        "price": "£45.17",
+        "rating": "Two",
+        "rating_numeric": 2,
+        "price_numeric": 45.17
+    }
+]

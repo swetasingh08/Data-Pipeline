@@ -1,0 +1,9 @@
+Assignment output preview
+==========================
+Total users: 10
+Total books: 20
+Average book price: £38.05
+
+Highest rating: 5
+Most expensive: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 (£57.25)
+Least expensive: Starving Hearts (Triangular Trade Trilogy, #1) (£13.99)
